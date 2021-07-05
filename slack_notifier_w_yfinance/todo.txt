@@ -1,0 +1,7 @@
+ todo:
+
+- add a readme
+- move repo to private
+- clean up cron logic
+- add loggers
+- maybe calculate the estimate amount of growth to go from undervalued to normal?
